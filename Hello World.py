@@ -13,9 +13,9 @@ Thefunctions.function1()
 
 
 #file random: periexei oles tis basikes synarthseis tou mycharm
-
-
 import random
 
 y=random._log(55,2)
 print(y)
+
+
